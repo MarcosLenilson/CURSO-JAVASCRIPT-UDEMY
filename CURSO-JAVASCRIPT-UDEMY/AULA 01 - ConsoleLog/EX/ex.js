@@ -1,0 +1,1 @@
+console.log("Meu nome é 'Marcos Lenilson', e eu gosto de estudar as", 20,"horas");
