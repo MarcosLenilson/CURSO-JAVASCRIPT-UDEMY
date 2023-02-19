@@ -25,7 +25,7 @@ console.log(outraString.replace('um', 'mais um'));
 let str = 'O rato roeu a roupa do rei de Roma'
 console.log(str.replace(/r/g, '#'));
 console.log(str.length);
-console.log(str.slice(2, 6));
+console.log(str.slice(2,10));
 console.log(str.slice(-4)); // Mesma coisa do Substring
 console.log(str.substring(str.length - 4)); //  Mesma coisa do Slice
 
